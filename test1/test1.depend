@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1652888808 source:c:\users\zlllllau\desktop\并行计算\openmp实验材料\test1\main.cpp
+	<iostream>
+	<omp.h>
+	<windows.h>
+
